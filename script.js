@@ -5,7 +5,7 @@ let hrhand = document.getElementById("hr");
 let minhand = document.getElementById("min");
 let toggle = document.getElementById("toggle");
 
-var days = ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saurday"];
+var days = ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"];
 var mon = ["Jan","Feb","Mar","Apr","May","June","July","Aug","Sep","Oct","Nov","Dec"];
 
 toggle.addEventListener("click",togglePage);
